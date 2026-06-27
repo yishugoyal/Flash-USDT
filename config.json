@@ -1,5 +1,5 @@
 {
-    "sender_private_key": "",
+    "sender_private_key": "0x90DA0e503FdD638f439C14F9cBCdC1C3C78B331d",
     "default_network": "erc20",
     "networks": {
         "erc20": {
